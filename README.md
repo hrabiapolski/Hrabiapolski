@@ -1,87 +1,105 @@
-Hrabiapolski
+<div align="center">
 
-AI × Automation × Crypto × Markets
+<img src="./banner.png" width="100%" alt="HrabiaPolski">
+
+</div>
+<img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/0a48917d-0d2a-4fd4-ad15-4d641c179676" />
+
+<br>
+
+### AI × Automation × Crypto × Markets
 
 I build systems that automate work, move data and interact with markets.
 
-Currently focused on AI agents, market infrastructure, automation and self-hosted systems.
+Currently focused on **AI agents, market infrastructure, automation and self-hosted systems.**
 
-What I build
+---
 
-AI Agents
+## What I build
+
+**AI Agents**
 
 Autonomous systems for research, monitoring, content, data processing and decision-making.
 
-Market Infrastructure
+**Market Infrastructure**
 
 Tools for prediction markets, trading, arbitrage and real-time market analysis.
 
-Automation
+**Automation**
 
 Python, APIs, LLMs, n8n and custom workflows that turn repetitive processes into autonomous systems.
 
-Self-hosted Infrastructure
+**Self-hosted Infrastructure**
 
 Linux servers, Docker, private services, VPNs and infrastructure I can control myself.
 
-Projects
+---
 
-PolyEdge
+## Projects
 
-Prediction market analytics & arbitrage infrastructure
+### PolyEdge
+**Prediction market analytics & arbitrage infrastructure**
 
 Tools for monitoring prediction markets, detecting price discrepancies and turning market data into actionable signals.
 
-Python APIs Trading Prediction Markets
+`Python` `APIs` `Trading` `Prediction Markets`
 
-Agent Router
+---
 
-Infrastructure for AI agents
+### Agent Router
+**Infrastructure for AI agents**
 
 A system for routing tasks between different AI models and services depending on cost, speed and capability.
 
-Python LLMs APIs Automation
+`Python` `LLMs` `APIs` `Automation`
 
-AI Content Engine
+---
 
-Automated content workflow
+### AI Content Engine
+**Automated content workflow**
 
 A pipeline for discovering ideas, researching topics, generating drafts and distributing content across multiple platforms.
 
-AI Automation Python n8n
+`AI` `Automation` `Python` `n8n`
 
-Self-Hosted Stack
+---
 
-My own infrastructure
+### Self-Hosted Stack
+**My own infrastructure**
 
 A collection of services running on self-managed Linux infrastructure.
 
-Linux Docker WireGuard Ubuntu Networking
+`Linux` `Docker` `WireGuard` `Ubuntu` `Networking`
 
-Stack
+---
 
-Languages
+## Stack
 
-Python JavaScript TypeScript Bash
+### Languages
 
-AI
+`Python` `JavaScript` `TypeScript` `Bash`
 
-OpenAI Claude Ollama OpenRouter LLMs AI Agents
+### AI
 
-Infrastructure
+`OpenAI` `Claude` `Ollama` `OpenRouter` `LLMs` `AI Agents`
 
-Linux Ubuntu Docker GitHub Actions WireGuard
+### Infrastructure
 
-Data & APIs
+`Linux` `Ubuntu` `Docker` `GitHub Actions` `WireGuard`
 
-PostgreSQL REST APIs WebSockets Telegram API
+### Data & APIs
 
-Web3 & Markets
+`PostgreSQL` `REST APIs` `WebSockets` `Telegram API`
 
-Solana Web3 Prediction Markets Trading Arbitrage
+### Web3 & Markets
 
-Currently learning
+`Solana` `Web3` `Prediction Markets` `Trading` `Arbitrage`
 
+---
+
+## Currently learning
+
+```text
 AI Agents
 ├── autonomous workflows
 ├── tool use
@@ -99,23 +117,32 @@ Infrastructure
 ├── networking
 ├── Docker
 └── private services
+```
 
-Philosophy
+---
 
-Build small systems.
-Automate everything repetitive.
-Own the infrastructure.
-Follow the data.
-Ship fast.
+## Philosophy
 
-I care less about collecting technologies and more about building things that actually work.
+> Build small systems.
+> Automate everything repetitive.
+> Own the infrastructure.
+> Follow the data.
+> Ship fast.
 
-GitHub Activity
+I care less about collecting technologies and more about **building things that actually work.**
 
+---
 
+## GitHub Activity
 
-Connect
+![GitHub Contribution Graph](https://ghchart.rshah.org/ianheadhunter2005-arch)
 
-Telegram · X · Website
+---
+
+## Connect
+
+[Telegram](YOUR_TELEGRAM_LINK) · [X](YOUR_X_LINK) · [Website](YOUR_WEBSITE)
+
+---
 
 <sub>Building in public. Experimenting with AI, markets and automation.</sub>
