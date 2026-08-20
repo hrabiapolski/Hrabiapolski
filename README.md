@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="HrabiaPolski">
-
 </div>
 <img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/0a48917d-0d2a-4fd4-ad15-4d641c179676" />
 
@@ -141,7 +139,7 @@ I care less about collecting technologies and more about **building things that 
 
 ## Connect
 
-[Telegram](YOUR_TELEGRAM_LINK) · [X](YOUR_X_LINK) · [Website](YOUR_WEBSITE)
+[Telegram](https://t.me/hrabiaPolski) · [X](https://x.com/hrabiapolski) · [Linkedin](https://www.linkedin.com/in/hrabiapolski/))
 
 ---
 
