@@ -1,146 +1,81 @@
 <div align="center">
 
+![HRABIA POLSKI — pixel-art banner](hrabia-pixel-banner.png)
+
+**AI agents · Prediction markets · Automation · Self-hosted systems**
+
+[![X](https://img.shields.io/badge/X-0D1117?style=flat-square&logo=x&logoColor=white)](https://x.com/hrabiapolski)
+[![Telegram](https://img.shields.io/badge/Telegram-0D1117?style=flat-square&logo=telegram&logoColor=26A5E4)](https://t.me/hrabiaPolski)
+[![Profile views](https://komarev.com/ghpvc/?username=hrabiapolski&style=flat-square&color=0D1117&label=SIGNAL+VISITS)](https://github.com/hrabiapolski)
+
 </div>
-<img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/0a48917d-0d2a-4fd4-ad15-4d641c179676" />
 
-<br>
+### I turn noise into systems.
 
-### AI × Automation × Crypto × Markets
+I'm **Hrabia** — a builder exploring the edge where artificial intelligence meets markets.
 
-I build systems that automate work, move data and interact with markets.
-
-Currently focused on **AI agents, market infrastructure, automation and self-hosted systems.**
-
----
-
-## What I build
-
-**AI Agents**
-
-Autonomous systems for research, monitoring, content, data processing and decision-making.
-
-**Market Infrastructure**
-
-Tools for prediction markets, trading, arbitrage and real-time market analysis.
-
-**Automation**
-
-Python, APIs, LLMs, n8n and custom workflows that turn repetitive processes into autonomous systems.
-
-**Self-hosted Infrastructure**
-
-Linux servers, Docker, private services, VPNs and infrastructure I can control myself.
-
----
-
-## Projects
-
-### PolyEdge
-**Prediction market analytics & arbitrage infrastructure**
-
-Tools for monitoring prediction markets, detecting price discrepancies and turning market data into actionable signals.
-
-`Python` `APIs` `Trading` `Prediction Markets`
-
----
-
-### Agent Router
-**Infrastructure for AI agents**
-
-A system for routing tasks between different AI models and services depending on cost, speed and capability.
-
-`Python` `LLMs` `APIs` `Automation`
-
----
-
-### AI Content Engine
-**Automated content workflow**
-
-A pipeline for discovering ideas, researching topics, generating drafts and distributing content across multiple platforms.
-
-`AI` `Automation` `Python` `n8n`
-
----
-
-### Self-Hosted Stack
-**My own infrastructure**
-
-A collection of services running on self-managed Linux infrastructure.
-
-`Linux` `Docker` `WireGuard` `Ubuntu` `Networking`
-
----
-
-## Stack
-
-### Languages
-
-`Python` `JavaScript` `TypeScript` `Bash`
-
-### AI
-
-`OpenAI` `Claude` `Ollama` `OpenRouter` `LLMs` `AI Agents`
-
-### Infrastructure
-
-`Linux` `Ubuntu` `Docker` `GitHub Actions` `WireGuard`
-
-### Data & APIs
-
-`PostgreSQL` `REST APIs` `WebSockets` `Telegram API`
-
-### Web3 & Markets
-
-`Solana` `Web3` `Prediction Markets` `Trading` `Arbitrage`
-
----
-
-## Currently learning
+I create agents that research, workflows that run themselves, and tools that turn streams of data into decisions.
 
 ```text
-AI Agents
-├── autonomous workflows
-├── tool use
-├── multi-agent systems
-└── model routing
-
-Markets
-├── prediction markets
-├── arbitrage
-├── real-time data
-└── automated execution
-
-Infrastructure
-├── self-hosting
-├── networking
-├── Docker
-└── private services
+RESEARCH  →  SIGNAL  →  DECISION  →  AUTOMATION
 ```
 
----
+```text
+🧠 AI agents          research · monitoring · tool use
+📈 Prediction markets probability · mispricing · execution
+⚙️ Automation         APIs · data pipelines · n8n
+🛰️ Infrastructure     Linux · Docker · self-hosting
+```
 
-## Philosophy
+## Inside the lab
 
-> Build small systems.
-> Automate everything repetitive.
-> Own the infrastructure.
-> Follow the data.
-> Ship fast.
+**PolyEdge** — prediction-market analytics and arbitrage infrastructure.  
+Monitoring probabilities, finding price discrepancies, turning market data into actionable signals.
 
-I care less about collecting technologies and more about **building things that actually work.**
+**Agent Router** — model-routing infrastructure for AI agents.  
+Choosing the right model for each task by capability, speed, and cost.
 
----
+**AI Content Engine** — an automated research-to-publishing workflow.  
+Finding ideas, collecting context, drafting posts, and distributing content across platforms.
 
-## GitHub Activity
+**Self-Hosted Stack** — private infrastructure I control.  
+Linux services, Docker containers, networking, VPNs, and automation running on my own terms.
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/ianheadhunter2005-arch)
+## Shipped
 
----
+[**funpay-cardinal-fragment-stars**](https://github.com/hrabiapolski/funpay-cardinal-fragment-stars)  
+Automated Telegram Stars delivery through Fragment for FunPayCardinal.
 
-## Connect
+## Toolkit
 
-[Telegram](https://t.me/hrabiaPolski) · [X](https://x.com/hrabiapolski) · [Linkedin](https://www.linkedin.com/in/hrabiapolski/))
+<p>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00D9FF" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00D9FF" alt="TypeScript">
+  <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=D4AF37" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00D9FF" alt="Docker">
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00D9FF" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=D4AF37" alt="n8n">
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=D4AF37" alt="Linux">
+</p>
 
----
+## Operating principles
 
-<sub>Building in public. Experimenting with AI, markets and automation.</sub>
+> Build small systems. Follow the data. Automate the repetitive. Own the infrastructure. Ship fast.
+
+I care less about collecting tools and more about building things that create **leverage**.
+
+## Activity
+
+<div align="center">
+
+![GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=hrabiapolski&bg_color=0d1117&color=8b949e&line=00d9ff&point=d4af37&area=true&hide_border=true)
+
+</div>
+
+<div align="center">
+
+**Building in public from the intersection of AI, markets, and automation.**
+
+[Telegram](https://t.me/hrabiaPolski) · [X](https://x.com/hrabiapolski) · [LinkedIn](https://www.linkedin.com/in/hrabiapolski/)
+
+</div>
