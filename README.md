@@ -12,7 +12,7 @@
 
 ### I turn noise into systems.
 
-I'm **Hrabia** — a builder exploring the edge where artificial intelligence meets markets.
+I'm **Egor** — a builder exploring the edge where artificial intelligence meets markets.
 
 I create agents that research, workflows that run themselves, and tools that turn streams of data into decisions.
 
